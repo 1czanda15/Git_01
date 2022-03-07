@@ -1,1 +1,1 @@
-ECHO is on.
+Today is a nice day!
